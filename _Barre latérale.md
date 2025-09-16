@@ -1,5 +1,5 @@
 Manuel Pypilot
-- [Introduction](Accueil)
+- [Introduction](home)
 - [Qu'est-ce que Pypilot](Qu'est-ce-que-Pypilot)
 - [Le ​​composant logiciel](Le-composant-logiciel)
 * [Distributions](Le-composant-logiciel#Distributions)
@@ -38,4 +38,5 @@ Manuel Pypilot
 * [Gains](gains)
 - [Feedback](Feedback)
 - [À faire](À faire)
+
 - [Enfin](Enfin)
